@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/eef12d93-73c8-43c1-874f-6d519d246cb6)
 <h1 align="center">Navigating from the Concrete Jungle 🗽 to the Digital Jungle 💻 </h1>
-<h3 align="center">Biologist by degree; Programmer by passion</h3>
+<h3 align="center">Biologist by bachelor's; Programmer by passion</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif?cid=6c09b9528zxleqb6uwc56n48ckrxt6cizr1xo8v0bk0jdacb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 
